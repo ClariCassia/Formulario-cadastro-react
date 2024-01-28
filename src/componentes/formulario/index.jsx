@@ -5,7 +5,7 @@ import * as yup from "yup"
 import LogoGoogle from "../../assets/google.png";
 import LogoFacebook from "../../assets/facebook.png";
 import Input from "../input";
-import SocialLoginButton from "../buttons/log-button";
+import SocialLoginButton from "../button/log-button";
 
 const schema = yup
     .object({
