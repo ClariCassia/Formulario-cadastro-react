@@ -1,7 +1,7 @@
 
 import logoUser from './assets/_canais-digitais_header.png'
 import imgTech from './assets/techs.png'
-import { Formulario } from "./componentes/formulario/";
+import Formulario  from "./componentes/formulario/";
 
 
 export default function App() {
