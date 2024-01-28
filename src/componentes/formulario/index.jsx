@@ -39,8 +39,9 @@ function Formulario() {
 
             <div className="w-full flex flex-col items-center justify-around gap-3 xl:flex-row">
 
-                <SocialLoginButton logo={LogoFacebook} text="Entrar com o Facebook" hoverColor="blue-600" />
-                <SocialLoginButton logo={LogoGoogle} text="Entrar com o Google" hoverColor="red-700" />
+                <SocialLoginButton logo={LogoFacebook} text="Entrar com o Facebook" hoverColor="sky-500" />
+                <SocialLoginButton logo={LogoGoogle} text="Entrar com o Google" hoverColor="red-600" />
+                
 
             </div>
 
