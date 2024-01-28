@@ -26,7 +26,7 @@ function Formulario() {
     }
 
     return (
-        <form className="w-11/12 max-w-xl flex flex-col justify-center items-center p-10 shadow-2xl rounded-lg gap-3" onSubmit={handleSubmit(onSubmit)}>
+        <form className="w-11/12 max-w-xl flex flex-col justify-center items-center p-6 shadow-2xl rounded-lg gap-3 sm:p-10" onSubmit={handleSubmit(onSubmit)}>
 
             <div className="w-full flex flex-col items-center justify-center gap-1 text-stone-500">
                 <Input id="name" label="Nome" type="text" register={register} errors={errors} />

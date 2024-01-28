@@ -10,9 +10,10 @@ export default function App() {
 
       <section className="w-full flex-[0.7] flex flex-col justify-center items-center p-4  ">
 
-      <img src={logoUser} alt="logo do usuario" className="w-36 hover:scale-110 duration-300 xl:w-44 " />
-
-        <h1 className="text-zinc-800/95 font-bold text-2xl mb-7 sm:text-4xl">Cadastre-se</h1>
+      <div>
+        <img src={logoUser} alt="logo do usuario" className="w-32 hover:scale-110 duration-300 xl:w-44 " />
+          <h1 className="text-zinc-800/95 font-bold text-2xl mb-7 sm:text-4xl">Cadastre-se</h1>
+      </div>
 
         <Formulario></Formulario>
      
