@@ -26,7 +26,7 @@ Utilizando as tecnologias React e Tailwind CSS,este Projeto trata-se de uma form
 Durante o desenvolvimento do projeto adquiri uma compreensão sobre a construção de interfaces modernas e eficientes. A utilização do React proporcionou-me uma abordagem modular e reutilizável na criação de componentes, simplificando a manutenção e promovendo uma arquitetura mais organizada. A incorporação do React Hook Form demonstrou-se valiosa ao facilitar a gestão de formulários, oferecendo uma validação eficiente e uma manipulação de dados fluida. Além disso, a integração do Tailwind CSS proporcionou-me a habilidade de criar estilos atrativos e responsivos de maneira eficaz, reduzindo o tempo de desenvolvimento e aumentando a produtividade. Essa experiência consolidou para mim a importância da combinação estratégica de tecnologias e despertou minha curiosidade para futuros projetos e a constante busca por aprimoramento
 ## Acesso a página
 
-Para ver o projeto pronto [clique aqui ](https://clari-cassia-projetcs-landing-page-uber-tailwind-css.vercel.app/)
+Para ver o projeto pronto [clique aqui ](https://clari-cassia-projetcs-formulario-cadastro-react.vercel.app/)
 
 
 
